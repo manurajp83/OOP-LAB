@@ -82,3 +82,4 @@ Enter Side of Square:8
 Area of Square :64
 
 */
+//Verified
