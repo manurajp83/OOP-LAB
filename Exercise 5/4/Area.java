@@ -30,3 +30,4 @@ Area of Circle:28.259999999999998
 Area of Square:25
 
 */
+//Verified
