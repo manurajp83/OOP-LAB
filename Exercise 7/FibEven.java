@@ -125,3 +125,5 @@ Main thread exiting
 
 */	
 	
+Verified
+Only 8 Fibonacci values are shown
