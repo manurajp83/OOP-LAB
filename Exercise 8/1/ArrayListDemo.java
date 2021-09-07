@@ -58,3 +58,4 @@ ArrayList can store upto 100 elements!!
 Size of array list after deletions: 4
 Contents of array list after deletions: [Red, White, Black, Pink]
 */
+Verified
