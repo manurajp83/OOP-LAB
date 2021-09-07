@@ -49,3 +49,4 @@ Removing next element at head :Gautam
 Removing last element :Ajay
 Final deque:[]
 */
+Verified
