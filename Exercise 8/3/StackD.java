@@ -43,3 +43,4 @@ Grapes
 Enter index position to be removed:2
 Final Stack: [Apple, Orange, Mango, Grapes]
 */
+Verified
